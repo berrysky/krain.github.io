@@ -307,7 +307,7 @@
         <mxCell id="Ach8vEFusjCiu4SRnwiI-67" value="坐标拾取工具" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-lr;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-70" y="440" width="35" height="187" as="geometry" />
         </mxCell>
-        <mxCell id="Ach8vEFusjCiu4SRnwiI-68" value="坐标拾取工具" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-lr;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="Ach8vEFusjCiu4SRnwiI-68" value="测量工具" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-lr;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-10" y="442" width="35" height="187" as="geometry" />
         </mxCell>
       </root>
