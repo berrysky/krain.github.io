@@ -82,10 +82,10 @@
         <mxCell id="autR1kdCD4ZM4bkPJIN1-13" value="法规动态同步" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="246" y="499" width="46" height="187" as="geometry" />
         </mxCell>
-        <mxCell id="autR1kdCD4ZM4bkPJIN1-14" value="权限展示" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="autR1kdCD4ZM4bkPJIN1-14" value="飞行链路控制" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="414" y="498" width="46" height="187" as="geometry" />
         </mxCell>
-        <mxCell id="autR1kdCD4ZM4bkPJIN1-15" value="实时气象感知" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="autR1kdCD4ZM4bkPJIN1-15" value="指点飞行" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="490" y="501" width="46" height="187" as="geometry" />
         </mxCell>
         <mxCell id="autR1kdCD4ZM4bkPJIN1-16" value="空域合规管理" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;textDirection=vertical-lr;" vertex="1" parent="1">
